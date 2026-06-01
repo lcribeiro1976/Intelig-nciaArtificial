@@ -1,4 +1,6 @@
-# README = f'''# Previsão de Evasão de Alunos
+# README 
+
+# Previsão de Evasão de Alunos
 
 ## Objetivo do Projeto
 Desenvolver um pipeline completo de Inteligência Artificial para prever a evasão
